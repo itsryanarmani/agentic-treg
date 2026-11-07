@@ -4,7 +4,7 @@
   "description": "Route live data through a catalog with a CLI, npm library, and MCP server.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-treg",
+    "url": "https://github.com/itsryanarmani/agentic-treg",
     "source": "github",
     "id": 1413762139
   },

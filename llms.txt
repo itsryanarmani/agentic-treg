@@ -13,6 +13,6 @@ Use TREG_ORG_ID for explicit balance organization selection.
 Custom result data is capped at 4000 UTF-8 bytes.
 HTTP and vendor failures throw shared core VendorError.
 
-Docs: https://github.com/pooriaarab/agentic-treg
+Docs: https://github.com/itsryanarmani/agentic-treg
 API: https://treg.to/llms.txt
 License: MIT
