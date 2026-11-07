@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-treg",
+  "mcpName": "io.github.itsryanarmani/agentic-treg",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
