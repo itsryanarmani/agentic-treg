@@ -4,7 +4,7 @@
 [![Downloads/month](https://img.shields.io/npm/dm/agentic-treg)](https://www.npmjs.com/package/agentic-treg)
 [![MIT license](https://img.shields.io/npm/l/agentic-treg)](https://opensource.org/license/mit)
 
-[Treg docs](https://treg.to/tutorial) · [API reference](https://treg.to/docs) · [llms.txt](https://treg.to/llms.txt) · [Package](https://www.npmjs.com/package/agentic-treg) · [Support](https://github.com/pooriaarab/agentic-treg/issues)
+[Treg docs](https://treg.to/tutorial) · [API reference](https://treg.to/docs) · [llms.txt](https://treg.to/llms.txt) · [Package](https://www.npmjs.com/package/agentic-treg) · [Support](https://github.com/itsryanarmani/agentic-treg/issues)
 
 agentic-treg is an open-source Treg catalog client with endpoint discovery, call previews, a TypeScript API, CLI, and Model Context Protocol (MCP) server.
 
@@ -74,7 +74,7 @@ Error text replaces exact occurrences of the configured token; this does not gua
 ## Status and development
 
 Version 0.1.0 is an early release; APIs can change before 1.0. Public case studies are not yet published.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-treg/issues) for support and [Treg](https://treg.to) for service information.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-treg/issues) for support and [Treg](https://treg.to) for service information.
 For development, run `npm ci`, `npm run build`, `npm run typecheck`, `npm test`, then `npm pack`.
 
 ## License
